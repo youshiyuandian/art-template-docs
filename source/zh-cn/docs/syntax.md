@@ -164,7 +164,7 @@ art-template 支持标准语法与原始语法。标准语法可以让模板易�
 
 ```html
 {{include './header.art'}}
-{{include './header.art' data}}
+{{include './header.art', data}}
 ```
 
 **原始语法**
